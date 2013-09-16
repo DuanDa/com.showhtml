@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			  xmlns:tools="http://schemas.android.com/tools"
+			  android:orientation="horizontal"
+			  android:layout_width="match_parent"
+			  android:layout_height="match_parent">
+
+	<fragment
+		class="com.duan.fragment.TitleFragment"
+		android:id="@+id/fl_title"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:layout_weight="1"
+		tools:layout="@android:layout/simple_list_item_1">
+	</fragment>
+
+	<FrameLayout
+		android:id="@+id/fl_detail"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:layout_weight="1" >
+	</FrameLayout>
+
+</LinearLayout>

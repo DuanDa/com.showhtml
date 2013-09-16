@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<family>
+	<phone>1234</phone>
+	<address>shan'xi xi'an</address>
+	<sports>football,basketball</sports>
+	<members>
+		<member role="father">
+			<name>john</name>
+			<age>42</age>
+			<gender>man</gender>
+		</member>
+		<member role="mother">
+			<name>lili</name>
+			<age>40</age>
+			<gender>women</gender>
+		</member>
+		<member role="son">
+			<name>west</name>
+			<age>5</age>
+			<gender>man</gender>
+		</member>
+	</members>
+</family>  
