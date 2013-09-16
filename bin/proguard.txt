@@ -1,9 +1,0 @@
-# view AndroidManifest.xml #generated:17
--keep class com.duan.provider.DContentProvider { <init>(...); }
-
-# view AndroidManifest.xml #generated:22
--keep class com.duan.showhtml.MainActivity { <init>(...); }
-
-# view AndroidManifest.xml #generated:30
--keep class com.duan.showhtml.PreferenceActivity { <init>(...); }
-
